@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="22.5" viewBox="0 0 45 22.5">
+  <rect fill="#838cf3" width="50" height="25"></rect>
+  <defs>
+    <rect stroke="#838cf3" stroke-width="0.32" width="1" height="1" id="s"></rect>
+    <pattern id="a" width="2" height="2" patternUnits="userSpaceOnUse">
+      <g stroke="#838cf3" stroke-width="0.32">
+        <rect fill="#858ef3" width="1" height="1"></rect>
+        <rect fill="#838cf3" width="1" height="1" x="1" y="1"></rect>
+        <rect fill="#8891f3" width="1" height="1" y="1"></rect>
+        <rect fill="#8a93f4" width="1" height="1" x="1"></rect>
+      </g>
+    </pattern>
+    <pattern id="b" width="5" height="11" patternUnits="userSpaceOnUse">
+      <g fill="#8d95f4">
+        <use xlink:href="#s" x="2" y="0"></use>
+        <use xlink:href="#s" x="4" y="1"></use>
+        <use xlink:href="#s" x="1" y="2"></use>
+        <use xlink:href="#s" x="2" y="4"></use>
+        <use xlink:href="#s" x="4" y="6"></use>
+        <use xlink:href="#s" x="0" y="8"></use>
+        <use xlink:href="#s" x="3" y="9"></use>
+      </g>
+    </pattern>
+    <pattern id="c" width="7" height="7" patternUnits="userSpaceOnUse">
+      <g fill="#8f98f4">
+        <use xlink:href="#s" x="1" y="1"></use>
+        <use xlink:href="#s" x="3" y="4"></use>
+        <use xlink:href="#s" x="5" y="6"></use>
+        <use xlink:href="#s" x="0" y="3"></use>
+      </g>
+    </pattern>
+    <pattern id="d" width="11" height="5" patternUnits="userSpaceOnUse">
+      <g fill="#838cf3">
+        <use xlink:href="#s" x="1" y="1"></use>
+        <use xlink:href="#s" x="6" y="3"></use>
+        <use xlink:href="#s" x="8" y="2"></use>
+        <use xlink:href="#s" x="3" y="0"></use>
+        <use xlink:href="#s" x="0" y="3"></use>
+      </g>
+      <g fill="#929af4">
+        <use xlink:href="#s" x="8" y="3"></use>
+        <use xlink:href="#s" x="4" y="2"></use>
+        <use xlink:href="#s" x="5" y="4"></use>
+        <use xlink:href="#s" x="10" y="0"></use>
+      </g>
+    </pattern>
+    <pattern id="e" width="47" height="23" patternUnits="userSpaceOnUse">
+      <g fill="#18decd">
+        <use xlink:href="#s" x="2" y="5"></use>
+        <use xlink:href="#s" x="23" y="13"></use>
+        <use xlink:href="#s" x="4" y="18"></use>
+        <use xlink:href="#s" x="35" y="9"></use>
+      </g>
+    </pattern>
+    <pattern id="f" width="61" height="31" patternUnits="userSpaceOnUse">
+      <g fill="#18decd">
+        <use xlink:href="#s" x="16" y="0"></use>
+        <use xlink:href="#s" x="13" y="22"></use>
+        <use xlink:href="#s" x="44" y="15"></use>
+        <use xlink:href="#s" x="12" y="11"></use>
+      </g>
+    </pattern>
+  </defs>
+  <rect fill="url(#a)" width="45" height="22.5"></rect>
+  <rect fill="url(#b)" width="45" height="22.5"></rect>
+  <rect fill="url(#c)" width="45" height="22.5"></rect>
+  <rect fill="url(#d)" width="45" height="22.5"></rect>
+  <rect fill="url(#e)" width="45" height="22.5"></rect>
+  <rect fill="url(#f)" width="45" height="22.5"></rect>
+</svg>
